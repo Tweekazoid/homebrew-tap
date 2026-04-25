@@ -1,6 +1,6 @@
 cask "macbook-power" do
-  version "0.3.0"
-  sha256 "4b0d212efcbcb3bacf37f045dc4cf292e9d00364a8c575caf6ab0209b3dfa83c"
+  version "0.4.0"
+  sha256 "9f89a9225da5a53dd25ecf44c8306ccaeed9493168ceffceb36bd0fb8748b7be"
 
   url "https://github.com/Tweekazoid/macbook_power/releases/download/v#{version}/MacBook-Power-#{version}.dmg"
   name "MacBook Power"
